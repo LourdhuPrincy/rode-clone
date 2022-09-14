@@ -11,3 +11,5 @@
 Because of this project I have some clear ideas of positions in tailwind css.I have learnt how to properly fix header and footer.
 
 [netlify link](https://rode-clone-homepage.netlify.app/)
+
+![screen shot](./assets/road-cover.png)
